@@ -10,3 +10,7 @@
 - DB: `MySQL`, `Redis`
 - Language: `Java`, `Python`
 - Message Queue: `Kafka`
+
+
+### Book
+- 7장 읽기 
